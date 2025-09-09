@@ -1,8 +1,8 @@
 ## Project Output
 
-Name:- Vasanthan N
-Mobile no:- 9361273977
-Mail Id:- vasanthsampath00@gmail.com
+- Name:- Vasanthan N
+- Mobile no:- 9361273977
+- Mail Id:- vasanthsampath00@gmail.com
 
 ### Employee Details
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/89a981d9-d25e-43fb-970d-be0b425b5538" />
